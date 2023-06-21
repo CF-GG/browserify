@@ -81,9 +81,9 @@
     "has-template-literals": "^1.0.0",
     "isstream": "^0.1.2",
     "make-generator-function": "^1.1.0",
-    "semver": "^5.5.0",
+    "semver": "^7.5.2",
     "seq": "0.3.5",
-    "tap": "^10.7.2",
+    "tap": "^15.0.0",
     "temp": "=0.8.3",
     "through": "^2.3.4"
   },
